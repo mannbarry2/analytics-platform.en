@@ -6,7 +6,7 @@ solution: Customer Journey Analytics
 feature: Basics
 exl-id: 13b413fd-2103-427a-b251-5b3a19046bdb
 ---
-# Install the Platform Web SDK wtih the Edge Network API {#upgrade-manual}
+# Install the Platform Web SDK with the Edge Network API {#upgrade-manual}
 
 <!-- markdownlint-disable MD034 -->
 
